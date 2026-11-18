@@ -1,44 +1,41 @@
 # Hi, I'm Emmanuel 👋
 
-I'm Oyeniyi Emmanuel, a full-stack developer, also known as **That RezTech Guy**. I build web apps for travel businesses, and I've helped grow more than 50 travel brands and worked with clients in 8 countries around the world. I like products that keep working when conditions are bad: slow networks, cheap phones, and staff who are busy.
+I'm Oyeniyi Emmanuel, **That RezTech Guy**. I build what happens after the booking: post-booking automation, agentic workflows and API integrations connected to tour operators' reservation systems (Bókun, FareHarbor, Rezdy).
+
+I've worked with 50+ travel brands across 9 countries: Finland, the UAE, Germany, the USA, France, Singapore, Italy, Egypt and Latvia.
 
 ## What I Do
 
-- **Web apps and PWAs**: I build installable web apps with Next.js, React and TypeScript, designed for mobile first.
-- **Backend and data**: I build APIs, Postgres/Supabase data models, background sync jobs, and email (IMAP/SMTP) integrations.
-- **AI features**: I build AI assistants that run on a company's own knowledge, using the Claude API, with tests that check how good the answers are.
-- **Cloud**: I've built serverless APIs on Azure Functions and Cosmos DB, deployed with GitHub Actions.
+- **Reservation integrations**: I connect reservation systems through their APIs, including Bókun, OCTO-based platforms (Ventrata, CaptainBook) and TicketingHub. I also build webhook and booking event handling.
+- **AI and agentic workflows**: I build custom tools connected to an operator's reservation system. They take over repetitive post-booking work, and a person on the team reviews every action before it reaches guests.
+- **Web apps and websites**: I build web apps with Next.js and TypeScript, and websites with Framer and Duda.
+- **OTA distribution**: I set up listings and channels on GetYourGuide, Viator and Google Things to Do.
 
-## How I Work
+## Experience
 
-- 🔀 **All my work is on GitHub.** I use branches, pull requests and reviews. I don't send code over WhatsApp.
-- 📝 **I write my decisions down.** I log each decision and its reason in the repo, so the next developer knows why the code is the way it is.
-- ✅ **I test what I ship.** I write automated tests (Vitest) and type checks before I say something is done.
-- 🔒 **I work under NDA in private repos.** I'm happy to sign one first and do a small paid test task before a bigger job.
-
-## Currently
-
-- 🧠 Building **AI Brain**, an AI smart inbox for a tour company in Singapore. It is an installable PWA that drafts replies to customer enquiries from the company's own knowledge base and its 170,000+ past emails.
-- 🌍 Building reservation and booking technology for travel brands.
+- 🇱🇻 **Tourpublish** (Riga, Latvia), Reservations Integration Lead, Jun 2026 to Aug 2026: I led the reservation integrations layer, starting with Bókun. I integrated Ventrata, CaptainBook and TicketingHub, built webhook and booking event handling, and helped design one unified reservation model behind all of them. I worked with the CTO and the core engineering team.
+- 🇸🇬 **AI Brain** for a tour operator in Singapore: an AI smart inbox built with Next.js, Supabase and the Claude API. It syncs the company's mailboxes and drafts replies to customer enquiries from its own knowledge base and 170,000+ past emails. It is an installable web app with an automated test suite.
+- 🇩🇪 **SchoolRallye.com** (Berlin, Germany), Reservation System and OTA Distribution Specialist, Oct 2025 to Feb 2026: I got their products approved on GetYourGuide and set up Bókun to push live availability through its API. Bookings now flow from GetYourGuide to Bókun to their website automatically.
+- 🇦🇪 **Arabian Wanderers** (Dubai, UAE), Reservations Consultant, Dec 2025 to Feb 2026: I migrated their website from Bókun to Duda, built FAQs that update from the Bókun API, and added location-based pricing so each visitor sees prices for their region.
+- 🇫🇷 **Uncle Sam Tours** (Paris, France), Reservation Systems Consultant, Nov 2025 to Jan 2026: I fixed their broken Bókun website integration and connected Bókun to Google Things to Do for direct bookings.
+- 🇳🇬 **Galaxy Backbone**, Framer Developer, Dec 2025: I built a website for the executive chairman.
+- 🇳🇬 **Ondo State Government**, Framer Developer, Nov 2025: I built a website for Ondo West Local Government.
 
 ## What I Work With
 
-- **Frontend:** TypeScript, React, Next.js, Tailwind CSS, SWR, PWA (web app manifest, installable apps)
-- **Backend:** Node.js, Python, PostgreSQL, Supabase, REST APIs, IMAP/SMTP
-- **AI:** Claude API, retrieval over company documents, evaluation scripts
-- **Cloud and tools:** Vercel, Azure Functions, Cosmos DB, GitHub Actions, Git, GitHub
+- **Reservations and travel:** Bókun API, OCTO, Ventrata, CaptainBook, TicketingHub, GetYourGuide, Viator, Google Things to Do
+- **Code:** TypeScript, JavaScript, React, Next.js, Node.js, Python, PostgreSQL, Supabase, REST APIs, webhooks
+- **AI:** Claude API, agentic workflows
+- **Websites and cloud:** Framer, Duda, Vercel, Azure Functions, GitHub Actions
 
-## Where I've Shipped
+## Certifications
 
-- 🇸🇬 **Web applications for a client in Singapore** (private, under NDA), including **AI Brain**: a Next.js and Supabase PWA with mailbox sync, AI-drafted replies and a full test suite
-- 🌐 **Websites for businesses** in travel and other industries, for clients in 8 countries
+Duda Certified Platform Specialist · Google Cybersecurity Professional Certificate · JavaScript Essential Training · Introduction to Cybersecurity
 
-## Public Projects
+## Education
 
-- ☁️ [azure-resume-api](https://github.com/Emmanuel1930/azure-resume-api): a serverless resume API on Azure Functions and Cosmos DB, deployed with GitHub Actions
-- ☁️ [cloud-resume-api](https://github.com/Emmanuel1930/cloud-resume-api): the Cloud Resume API Challenge
-- 🧾 [attendance-system](https://github.com/Emmanuel1930/attendance-system): an attendance tracking web app
+Redeemer's University (2023 to 2025), Best Graduating Student
 
 ## Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/oyeniyi-emmanuel/) · 📍 Nigeria · Open to remote and contract work
+[LinkedIn](https://www.linkedin.com/in/oyeniyi-emmanuel/) · 📍 Nigeria
