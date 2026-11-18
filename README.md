@@ -32,10 +32,6 @@ I've worked with 50+ travel brands across 9 countries: Finland, the UAE, Germany
 
 Duda Certified Platform Specialist · Google Cybersecurity Professional Certificate · JavaScript Essential Training · Introduction to Cybersecurity
 
-## Education
-
-Redeemer's University (2023 to 2025), Best Graduating Student
-
 ## Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/oyeniyi-emmanuel/) · 📍 Nigeria
